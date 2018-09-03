@@ -1,0 +1,21 @@
+{
+  "name": "fast-base64-encode",
+  "version": "0.0.0",
+  "license": "MIT",
+  "repository": "LinusU/fast-base64-encode",
+  "scripts": {
+    "test": "standard && node test"
+  },
+  "keywords": [
+    "base64-encode",
+    "base64",
+    "encode"
+  ],
+  "files": [
+    "index.d.ts",
+    "index.js"
+  ],
+  "devDependencies": {
+    "standard": "^12.0.1"
+  }
+}
